@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 201,
+      "recipe_name": "Avocado Toast",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "A quick and healthy avocado toast with a sprinkle of chili flakes.",
+      "ingredients": ["Bread", "Avocado", "Olive oil", "Salt", "Chili flakes", "Lemon juice", "Garlic"],
+      "preparing_time": 10,
+      "calories": 250
+    },
+    {
+      "recipe_id": 202,
+      "recipe_name": "Garlic Butter Shrimp",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "Succulent shrimp cooked in garlic butter sauce, served with rice.",
+      "ingredients": ["Shrimp", "Garlic", "Butter", "Parsley", "Lemon", "Olive oil", "Salt"],
+      "preparing_time": 15,
+      "calories": 400
+    },
+    {
+      "recipe_id": 203,
+      "recipe_name": "Caprese Salad",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "A refreshing salad with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": ["Tomatoes", "Mozzarella", "Basil", "Olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+      "preparing_time": 10 ,
+      "calories": 300
+    },
+    {
+      "recipe_id": 204,
+      "recipe_name": "Beef Stir Fry",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "Quick beef stir fry with vibrant vegetables and a savory sauce.",
+      "ingredients": ["Beef strips", "Broccoli", "Carrots", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+      "preparing_time": 20 ,
+      "calories": 500
+    },
+    {
+      "recipe_id": 205,
+      "recipe_name": "Margarita Pizza",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "Classic margarita pizza with fresh basil and mozzarella.",
+      "ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella", "Basil", "Olive oil", "Garlic", "Salt"],
+      "preparing_time": 25,
+      "calories": 600
+    },
+    {
+      "recipe_id": 206,
+      "recipe_name": "Berry Smoothie",
+      "recipe_img": "https://i.ibb.co.com/VYK18c3/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-188544-9469.jpg",
+      "short_description": "A refreshing smoothie made with mixed berries and yogurt.",
+      "ingredients": ["Strawberries", "Blueberries", "Raspberries", "Yogurt", "Honey", "Ice", "Milk"],
+      "preparing_time": 5 ,
+      "calories": 200
+    }
+  ]
+  
